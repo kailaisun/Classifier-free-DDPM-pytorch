@@ -13,8 +13,11 @@ This implementation was transcribed from the official Tensorflow version <a href
 
 ## Usage
 
-```python train.py
-```python test.py
+
+train:python train.py
+
+
+test:python test.py
 
 Samples and model checkpoints will be logged to `./results` periodically
 
